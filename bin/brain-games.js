@@ -1,3 +1,7 @@
 #!/usr/bin/env node
 
-console.log('Welcome to the Brain Games!');
+
+import runUser from '../src/cli.js';
+
+
+runUser();
