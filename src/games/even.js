@@ -12,7 +12,8 @@ const generateRound = () => {
 	return { question, correct };
 };
 
-export default () => {
+
+export default function runEvenGame() {
 runGame(gameDescription, generateRound);
 };
 
