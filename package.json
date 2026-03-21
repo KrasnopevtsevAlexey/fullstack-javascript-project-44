@@ -27,5 +27,10 @@
   "homepage": "https://github.com/KrasnopevtsevAlexey/fullstack-javascript-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0"
   }
 }
