@@ -8,6 +8,11 @@
 
 [![asciicast](https://asciinema.org/a/859794.svg)](https://asciinema.org/a/859794)
 
+
+## Демонстрация работы игры Brain Games Cacl
+
+[![asciicast](https://asciinema.org/a/860033.svg)](https://asciinema.org/a/860033)
+
 ## Установка
 
 ```bash
