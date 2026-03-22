@@ -3,3 +3,13 @@
 
 ### Sonarcloud.io
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KrasnopevtsevAlexey_fullstack-javascript-project-44&metric=alert_status)](https://sonarcloud.io/dashboard?id=KrasnopevtsevAlexey_fullstack-javascript-project-44)
+
+## Демонстрация работы игры Brain Games
+
+[![asciicast](https://asciinema.org/a/859794.svg)](https://asciinema.org/a/859794)
+
+## Установка
+
+```bash
+npm install
+npm link
